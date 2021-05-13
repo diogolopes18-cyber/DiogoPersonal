@@ -5,7 +5,7 @@ I'm an Electrical and Computer Engineering Master's student at the Superior Inst
 
 - 🔭 Currently working on a Discord bot for the IEEE ISEP Student Branch Discord server
 - ✉️ How to reach me: 
-    - [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:diogolopem12@dennispham.me)
+    - [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:diogolopem12@gmail.com)
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/diogolopes18)
 
 ## 🧰 Languages and Tools:
