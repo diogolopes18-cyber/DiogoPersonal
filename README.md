@@ -1,4 +1,4 @@
-# DiogoPersonal
+# Diogo Lopes
 
 I'm Diogo, and I am very passionate about computer science, specially Linux and embedded systems.
 I'm an Electrical and Computer Engineering Master's student at the Superior Institute of Engineering of the Polytechnic of Porto. Currently working as a Systems Engineer at Körber Digital.
