@@ -1,7 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Diogo)](https://lemonsaur.us)
 
-I'm Diogo, and I am very passionate about computer science, specially Linux and embedded systems.
-I'm an Electrical and Computer Engineering Master's student at the Superior Institute of Engineering of the Polytechnic of Porto. Currently working as a Software Engineer at Neoception.
+I'm Diogo, and I am very passionate about computer science, specially Linux and embedded systems. Currently working as a Software Engineer at Groendus.
 
 I love everything about embedded systems, and really enjoy understand how a system works inside. Also, I've gain an interest in cloud technologies, and I like to learn how can cloud services be integrated into our own apps. I'm currently pursuing the Azure Fundamentals certification.
 
